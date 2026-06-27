@@ -1,6 +1,6 @@
 [server]
 host = "127.0.0.1"
-port = 22217
+port = 8080
 
 # CORS 允许的 Origin 列表（默认 ["http://localhost:22217"]）
 # cors_origins = ["http://localhost:22217"]
